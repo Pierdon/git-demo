@@ -16,3 +16,4 @@ hello bondon! hello git! master test
 hello bondon! hello git! hot-fix first test
 1111111111111111111111111111111111111111111
 2222222222222222222222222222222222by bondon
+试试中文
